@@ -37,4 +37,4 @@
 
 ###
 
-[![Theviolatorx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theviolatorxc&bg_color=000519&color=496dfd&line=4dff00&point=6689f5&area=true&hide_border=true)](https://github.com/theviolatorxc/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theviolatorx)](https://github.com/ashutosh00710/github-readme-activity-graph)
