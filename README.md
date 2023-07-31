@@ -23,8 +23,7 @@
  
 ### Você pode me encontrar em:
 <a href="https://www.linkedin.com/in/cl%C3%B3vis-garcia-787870a/" target="_top">
-<img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="[https://www.linkedin.com/in/cl%C3%B3vis-garcia-787870a/](https://medium.com/@theviolatorx)" target="_top">
+<img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="[https://www.linkedin.com/in/cl%C3%B3vis-garcia-787870a/](https://medium.com/@theviolatorx)" target="_top">
 <img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
 
