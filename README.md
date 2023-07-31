@@ -29,5 +29,7 @@
 <img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.instagram.com/theviolatorx/" target="_top">
 <img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="#" target="_top">
+<img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
