@@ -1,11 +1,16 @@
 # 👋 Olá, sou Clóvis Garcia.
-<div align="center>
-![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  </div>
-<div align="center">
+
+<div style="display: inline_block" align="center">
   <a href="https://github.com/wenderenzo123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theviolatorx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theviolatorx&layout=compact&langs_count=7&theme=dark"/>
+
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=theviolatorx&theme=darcula&hide_border=true&background=FFFFFF00" />
+</div>
+<div align="center">
+  <a href="https://github.com/theviolatorx">
+    <img src="https://komarev.com/ghpvc/?username=theviolatorx&style=for-the-badge&color=orange" alt="Profile View Badge"/>
+  </a>
 </div>
 
 ##
@@ -40,3 +45,12 @@
 ###
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theviolatorx&&bg_color=000519&color=496dfd&line=4dff00&point=6689f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Ver depois:
+<div align="center>
+![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  </div>
+
+  ---
+
+  
