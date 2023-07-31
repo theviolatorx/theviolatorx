@@ -26,10 +26,12 @@
 <a href="https://www.linkedin.com/in/cl%C3%B3vis-garcia-787870a/" target="_top">
 <img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@theviolatorx" target="_top">
-<img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<img align="center" alt="Clovis_Garcia-Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.instagram.com/theviolatorx/" target="_top">
-<img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="#" target="_top">
-<img align="center" alt="Clovis_Garcia-Linkedin" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<img align="center" alt="Clovis_Garcia-Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="mailto:theviolatorx@gmail.com" target="_top">
+<img align="center" alt="Clovis_Garcia-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#" target="_top">
+<img align="center" alt="Clovis_Garcia-Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
