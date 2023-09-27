@@ -1,5 +1,5 @@
-# 👋 Olá, sou Clóvis Garcia. Seja bem-vindo ao meu Github!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=WASSUP,+My+name+is+Matheus+Holanda;I'm+25+years+old;I'm+from+Brazil;Front-end+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+<!-- # 👋 Olá, sou Clóvis Garcia. Seja bem-vindo ao meu Github! -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Cl%C3%B3vis+Garcia.;Sou+Brasileiro+e+Roqueiro.;Tenho+48+anos.;Seja+bem-vindo+ao+meu+Github!+%3A))](https://git.io/typing-svg)
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/theviolatorx">
