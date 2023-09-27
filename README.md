@@ -1,7 +1,4 @@
 <!-- # 👋 Olá, sou Clóvis Garcia. Seja bem-vindo ao meu Github! -->
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Cl%C3%B3vis+Garcia;Seja+bem-vindo+ao+meu+Github!)](https://git.io/typing-svg)
-</div>
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/theviolatorx">
