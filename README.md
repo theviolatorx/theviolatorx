@@ -18,8 +18,8 @@
 <div align="center">
 <img height="145em" src="https://github-profile-trophy.vercel.app/?username=theviolatorx&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> 
 </div>
+
 ##
-  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Clovis_Garcia-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Clovis_Garcia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
