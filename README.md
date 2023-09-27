@@ -15,7 +15,11 @@
 </div>
 
 ##
-![](https://visitor-badge.glitch.me/badge?page_id=theviolatorx.theviolatorx)
+
+<img height="145em" src="https://github-profile-trophy.vercel.app/?username=theviolatorx&theme=discord&no-bg=true&no-frame=true&row=-1&column=-1&title=Followers,Commit,Stars,PullRequest,Repositories,Reviews"/> 
+
+##
+![visitors](https://visitor-badge.glitch.me/badge?page_id=theviolatorx.theviolatorx)
 ##
   
 <div style="display: inline_block" align="center"><br>
