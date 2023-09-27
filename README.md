@@ -1,4 +1,5 @@
-# 👋 Olá, sou Clóvis Garcia.
+# 👋 Olá, sou Clóvis Garcia. Seja bem-vindo ao meu Github!
+# 🤟🏿 Hi! I'm Garcia, Clóvis. Welcome to my Github!
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/theviolatorx">
