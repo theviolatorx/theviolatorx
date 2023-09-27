@@ -53,7 +53,7 @@
 ###
 <div align="center">
   Visitor Count
-  https://profile-counter.glitch.me/{mmatheus-holanda}/count.svg
+  <img align="center" src="https://profile-counter.glitch.me/{mmatheus-holanda}/count.svg" />
 </div>
 
 
