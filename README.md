@@ -14,6 +14,8 @@
 </div>
 
 ##
+![](https://visitor-badge.glitch.me/badge?page_id=theviolatorx.theviolatorx)
+##
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Clovis_Garcia-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
